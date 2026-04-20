@@ -1,6 +1,6 @@
 cask "strata" do
   version "0.9.0"
-  sha256 "043a5ee684775af077b44f4af476dc0b29d9c7fd9d52db7e5eb7a630390dcb5a"
+  sha256 "dafe8218f2012bf99c071c2122d27803029e38f0766e20db752476ebb8cc5a89"
 
   url "https://github.com/arkottke/strata/releases/download/v#{version}/Strata-v#{version}-macos.dmg"
   name "Strata"
